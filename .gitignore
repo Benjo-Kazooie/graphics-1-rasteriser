@@ -1,9 +1,6 @@
 #.vs folder
 .vs/
 
-#debug objects
-Rasteriser/x64/
-
 #exes and related
 x64/Debug/Rasteriser.exe
 x64/Debug/Rasteriser.ilk
